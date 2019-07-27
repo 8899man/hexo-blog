@@ -10,6 +10,7 @@ category:
 - 日常问题
 ---
 
+## 日常问题
 * Ubuntu 安装redis两种方式 教程
 [解决方案](http://www.cnblogs.com/langtianya/p/5187681.html "点我搞事情！")
 * 在Ubuntu中安装Redis,设置密码，远程访问
@@ -17,7 +18,7 @@ category:
 * 关于学习算法的路上，有哪些需要学习的（南阳理工的题目）
 [学习思路](http://acm.nyist.net/JudgeOnline/step.php)
 
-# IIS 7.5 部署项目解决问题
+## IIS 7.5 部署项目解决问题
 
 * Service Unavailable HTTP Error 503. The service is unavailable 
 [解决方案](http://www.cnblogs.com/fri-yu/p/4078995.html "点我搞事情！")
