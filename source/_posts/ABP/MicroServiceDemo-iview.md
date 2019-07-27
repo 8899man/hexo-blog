@@ -1,8 +1,8 @@
 ---
 title: ABP VNEXT中的MicroserivceDemo增加单页面示例
-date: 2019-01-09 14:40:26
+date: 2019-05-09 14:40:26
 tags: ABP
-description: 
+description: 从 ABP vNext  的MicroserviceDemo中修改而来，为其增加了iview的SPA界面， 实现前后端分离的用户角色授权管理功能 
 category:
 - ABP
 ---
