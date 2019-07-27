@@ -1,12 +1,12 @@
 ---
-title: ASP.NET Core 部署至ubuntu、部署至ubuntu下的Docker
+title: ASP.NET Core 部署至Ubuntu下的Docker
 date: 2019-06-09 00:54:15
 tags:
 - ASP.NET Core
 - Ubuntu
 - Docker
 category:
-- 大后端
+- .NET Core
 ---
 ## 使用Docker 方式部署
 
