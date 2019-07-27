@@ -31,37 +31,19 @@ CodeLF帮程序员起变量名的网站:[https://unbug.github.io/codelf/](https:
 ## 使用方法
 准备一个这样格式的数据字典
 
-<fancybox>
-
-  ![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/2.png)
-
-</fancybox>
+<fancybox>![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/2.png)</fancybox>
 
 运行程序，然后首先来到配置界面，这里可以配置你要生成的表名，以及项目名称等，配置完成之后点击**保存配置**
 
-<fancybox>
-
-  ![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/3.png)
-
-</fancybox>
+<fancybox>![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/3.png)</fancybox>
 
 表结构设置：在这里将你需要生成的字段从数据字典里面复制进来如图：
   注意：ID，IsDeleted，DeleterUserId，DeletionTime等字段是ABP自动生成的字段这里不必复制进来
   
-<fancybox>
+<fancybox>![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/4.png)</fancybox>
 
-  ![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/4.png)
-
-</fancybox>
 字段复制进来后点击导入字段，生成如下图列表，自行确定每个字段是否需要后点击*生成代码*
-<fancybox>
-
-  ![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/5.png)
-
-</fancybox>
+<fancybox>![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/5.png)</fancybox>
 代码生成之后会在对应的目录下面生成对应的文件，只需要手动添加到项目中即可使用（这里还有待改进）
 
-<fancybox>
-
-  ![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/6.png)
-</fancybox>
+<fancybox>![avatar](https://github.com/i542873057/SJNScaffolding/raw/master/Img/6.png)</fancybox>

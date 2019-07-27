@@ -130,11 +130,7 @@ service nginx start
 ](https://cloud.tencent.com/redirect.php?redirect=1042&cps_key=01a3c9a5a3ce578801cd6f805c09b701&from=console)，有需要可以使用。域名注册的过程就不BB了，假设前提，你有一个备案好的域名。
 云产品->域名解析->选择一个域名（列表页选择解析）->添加记录（依次从在表格上填写，如下图所示，可点击查看大图）
 
-<fancybox>
-
-![](https://miao.su/images/2019/06/25/RSF6QBO9P646IV17eef5c.png)
-
-</fancybox>
+<fancybox>![](https://miao.su/images/2019/06/25/RSF6QBO9P646IV17eef5c.png)</fancybox>
 
 远程连接服务器后，增加相应的配置项，我们使用nginx实现域名的配置，安装nginx(也不详细说明)，这时候，（/var/www/html）会有一个.html,就是一个欢迎使用nginx的页面。
 
@@ -144,19 +140,11 @@ service nginx start
 
 81端口
 
-<fancybox>
-
-![image51555.png](https://miao.su/images/2019/06/25/image51555.png)
-
-</fancybox>
+<fancybox>![image51555.png](https://miao.su/images/2019/06/25/image51555.png)</fancybox>
 
 82端口
 
-<fancybox>
-
-![imagec5d3e.png](https://miao.su/images/2019/06/25/imagec5d3e.png)
-
-</fancybox>
+<fancybox>![imagec5d3e.png](https://miao.su/images/2019/06/25/imagec5d3e.png)</fancybox>
 
 ~~~bash
 
@@ -233,16 +221,8 @@ nginx -s reload
 
 效果图 81端口，转发到 docs.igeekfan.cn
 
-<fancybox>
-
-![Y_XRRQRZJZXJ5N96919c.png](https://miao.su/images/2019/06/25/Y_XRRQRZJZXJ5N96919c.png)
-
-</fancybox>
+<fancybox>![Y_XRRQRZJZXJ5N96919c.png](https://miao.su/images/2019/06/25/Y_XRRQRZJZXJ5N96919c.png)</fancybox>
 
 效果图 82端口,转发到 blog.igeekfan.cn
 
-<fancybox>
-
-![imagedfa93.png](https://miao.su/images/2019/06/25/imagedfa93.png)
-
-</fancybox>
+<fancybox>![imagedfa93.png](https://miao.su/images/2019/06/25/imagedfa93.png)</fancybox>

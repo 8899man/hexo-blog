@@ -35,9 +35,7 @@ dotnet SJNScaffolding.RazorPage.dll #启动web项目，默认应该是http://loc
 ~~~
 参考下图
 
-<fancybox>
-![https://miao.su/images/2019/06/09/5NOPVXLDV0IMA_QO7cdd8d.png](https://miao.su/images/2019/06/09/5NOPVXLDV0IMA_QO7cdd8d.png)
-</fancybox>
+<fancybox>![https://miao.su/images/2019/06/09/5NOPVXLDV0IMA_QO7cdd8d.png](https://miao.su/images/2019/06/09/5NOPVXLDV0IMA_QO7cdd8d.png)</fancybox>
 
 ip:端口是无法访问到的，
 命令行中执行，下面这行命令，是正常的，但只能服务器访问，外网无法访问。
